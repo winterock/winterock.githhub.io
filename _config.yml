@@ -13,13 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wentao's Personal Blog
+title: Wentao Yang
+author: Wentao Yang
 email: winterock.yang@gmail.com
 description: You look but you never see.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username:
-#github_username:
+#twitter_username: id
+#github_username: id
 
 # Build settings
 markdown: kramdown
