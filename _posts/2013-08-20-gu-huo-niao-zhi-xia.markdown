@@ -1,4 +1,5 @@
 ---
+bg: "lake.jpg"
 layout: post
 title: "姑获鸟之夏"
 date: 2013-08-20 11:55

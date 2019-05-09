@@ -1,4 +1,5 @@
 ---
+bg: "sun.jpg"
 layout: post
 title: "Something More About Bitcoin"
 date: 2013-04-10 14:41
