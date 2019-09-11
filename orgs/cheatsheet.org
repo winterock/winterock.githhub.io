@@ -1,0 +1,61 @@
+** Cheat sheet for org-mode
+
+*** Emphasis and mono-space
+    *bold*, /italic/, _underlined_, =verbatim= and ~code~,
+
+*** Paragraphs
+
+    #+BEGIN_VERSE
+    Great clouds overhead
+    Tiny black birds rise and fall
+    Snow covers Emacs
+
+      ---AlexSchroeder
+    #+END_VERSE
+
+    #+BEGIN_QUOTE
+    Everything should be made as simple as possible,
+    but not any simpler ---Albert Einstein
+    #+END_QUOTE
+
+    #+BEGIN_CENTER
+    Everything should be made as simple as possible, \\
+    but not any simpler
+    #+END_CENTER
+
+*** Source Code Block
+    
+    #+BEGIN_SRC python
+    
+    #+END_SRC
+ 
+** TODO Todo ~[C-c C-t]~
+*** Insert Structural Template ~[C-c C-,]~
+    Edit ~[C-c ']~
+    Eval ~[C-c C-c]~
+    #+begin_src python :results output
+      def simplest_func ():
+          print "Easy"
+      simplest_func()
+    #+end_src
+
+    #+RESULTS:
+    : Easy
+
+*** Time
+ 1. ~S-[up/down]~ to change date
+ 2. ~[C-c .]~
+
+*** Sort ~[C-c ^]~
+
+*** Tricks
+    + [-] Check Box [1/2] 
+      1. Insert a check box with ~M + S + Ret~
+      2. [ ] Toggle Checkout ~[C-c C-c]~
+      3. [X] Hey
+      4. Re-index ~[C-c C-c]~
+    + Plain List
+      1. Sub 1
+      2. blablabla
+
+
