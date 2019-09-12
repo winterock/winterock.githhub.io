@@ -1,7 +1,9 @@
 {% if page.bg %}
-  <aside class="sidebar" role="note" style="background-image: url({{ site.images | relative_url }}/{{ page.bg }})">
+  <aside class="sidebar" role="note"
+         style="background-image: url({{ site.images | relative_url }}/{{ page.bg }})">
 {% else %}
-  <aside class="sidebar" role="note" style="background-image: url({{ site.images | relative_url }}/bg.svg)">
+  <aside class="sidebar" role="note"
+         style="background-image: url({{ site.images | relative_url }}/{{ page.content | number_of_words | modulo: site.img_cnt }}.jpg)">
 {% endif %}
 
   <div class="cover">
@@ -9,11 +11,7 @@
     <div class="cover-text">
       <div class="heading">
 
-        {% if page.tags %}
-          {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/posts/#{{ tag | downcase }}">{{ tag | downcase }}</a>
-          {% endfor %}
-        {% else %}
+        {% if page.title %}
           {{ page.title }}
         {% endif %}
 
@@ -22,6 +20,8 @@
       <p>
         {% if page.summary %}
           {{ page.summary }}
+        {% else %}
+          {{ site.quotes | sample 1 }}
         {% endif %}
       </p>
 

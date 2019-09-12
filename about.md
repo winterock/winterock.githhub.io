@@ -1,11 +1,19 @@
 ---
-bg: "owl.jpg"
 layout: page
 title: "About"
 permalink: /about/
-summary: "Big brother is watching you"
 active: about
 ---
 
-## ?
-Reach out to me via winterock[dot]yang[at]gmail[dot]com for more details
+## About Tools
+
+#### Markdown
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
+
+#### Org Mode
+[Org Mode Cheatsheet](/orgs/org-mode-cheatsheet)
+
+[Python Notebook With Org Mode](/orgs/python-example)
+
+## About Me
+winterock[dot]yang[at]gmail[dot]com

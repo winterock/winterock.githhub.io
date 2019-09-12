@@ -1,10 +1,10 @@
 ---
-bg: "blur.jpg"
 layout: post
 title: "Something About Bitcoin"
 date: 2013-02-05 17:10
 comments: true
 tags: bitcoin
+author: Wentao
 ---
 
 我百分之一万的相信，比特币的流行只是一个时间问题。

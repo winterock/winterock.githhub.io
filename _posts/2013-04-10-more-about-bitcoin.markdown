@@ -1,10 +1,10 @@
 ---
-bg: "sun.jpg"
 layout: post
 title: "Something More About Bitcoin"
 date: 2013-04-10 14:41
 comments: true
 tags: bitcoin
+author: Wentao
 ---
 
 最近比特币兑美元的汇率涨到了1:200了。

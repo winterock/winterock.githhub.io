@@ -1,10 +1,10 @@
 ---
-bg: "lake.jpg"
 layout: post
 title: "姑获鸟之夏"
 date: 2013-08-20 11:55
 comments: true
-tags: [一本正经胡说八道]
+tags: [一本正经胡说八道, 书]
+author: Wentao
 ---
 
 在Randjiang同学的强烈推荐下，开始看起了京极夏彦的“姑获鸟之夏”

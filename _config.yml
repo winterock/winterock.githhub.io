@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "You look but you never see"
+title: "T7=42"
 email: winterock.yang@gmail.com
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -39,3 +39,15 @@ sass:
 
 
 images: '/assets/images'
+
+img_cnt: 6
+
+quotes:
+  [
+    "Big brother is watching you",
+    "You look but you never see",
+    "Don't panic",
+    "Sorry for the inconvenience",
+    "Fifty-three years, seven months, and eleven days and nights",
+    "The following night they did it all over again, only this time with Sony Walkmen",
+  ]

@@ -1,4 +1,7 @@
-** Cheat sheet for org-mode
+#+TITLE: Org Mode CheatSheet
+* Org Mode CheatSheet
+
+** Syntax
 
 *** Emphasis and mono-space
     *bold*, /italic/, _underlined_, =verbatim= and ~code~,
@@ -24,10 +27,7 @@
     #+END_CENTER
 
 *** Source Code Block
-    
-    #+BEGIN_SRC python
-    
-    #+END_SRC
+    [[./python-example][Python Example]]
  
 ** TODO Todo ~[C-c C-t]~
 *** Insert Structural Template ~[C-c C-,]~

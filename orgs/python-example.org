@@ -1,13 +1,13 @@
-* Python Notebook Example
-
-** Source Blocks
+#+TITLE: Python Notebook
+* Python Notebook With Org Mode
+** Source Code Block
    + ~C-c C-,~ to create a new source code block
    + ~C-c '~ to enter/exit edit buffer
    + ~C-c C-c~ to evaluate code block
 
-** Examples
+** Example
 
-   #+name hello world
+   #+name: hello world
    #+begin_src python :results output
      def hello():
          print "Hello World"
