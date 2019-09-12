@@ -1,0 +1,58 @@
+#+TITLE: Python Notebook
+* Python Notebook With Org Mode
+** Source Code Block
+   + ~C-c C-,~ to create a new source code block
+   + ~C-c '~ to enter/exit edit buffer
+   + ~C-c C-c~ to evaluate code block
+
+** Example
+
+   #+name: hello world
+   #+begin_src python :results output
+     def hello():
+         print "Hello World"
+     hello()
+   #+end_src
+
+   #+RESULTS:
+   : Hello World
+
+
+   #+begin_src python :results output
+     import matplotlib, numpy
+     matplotlib.use('Agg')
+     import matplotlib.pyplot as plt
+     fig=plt.figure(figsize=(4,2))
+     x=numpy.linspace(-10,20)
+     print x
+     plt.plot(numpy.sin(x)/x)
+     fig.tight_layout()
+     plt.savefig('images/python-matplot-fig.png')
+     #return 'images/python-matplot-fig.png'
+   #+end_src
+
+   #+RESULTS:
+   #+begin_example
+   [-10.          -9.3877551   -8.7755102   -8.16326531  -7.55102041
+     -6.93877551  -6.32653061  -5.71428571  -5.10204082  -4.48979592
+     -3.87755102  -3.26530612  -2.65306122  -2.04081633  -1.42857143
+     -0.81632653  -0.20408163   0.40816327   1.02040816   1.63265306
+      2.24489796   2.85714286   3.46938776   4.08163265   4.69387755
+      5.30612245   5.91836735   6.53061224   7.14285714   7.75510204
+      8.36734694   8.97959184   9.59183673  10.20408163  10.81632653
+     11.42857143  12.04081633  12.65306122  13.26530612  13.87755102
+     14.48979592  15.10204082  15.71428571  16.32653061  16.93877551
+     17.55102041  18.16326531  18.7755102   19.3877551   20.        ]
+   #+end_example
+
+   ~C-c C-c~ to 
+   + evaluate the code block above
+   + print data in result block
+   + generate the image file
+
+   Then include the file inline
+   [[file:images/python-matplot-fig.png]]
+
+   ~M-x org-toggle-inline-images~
+
+   
