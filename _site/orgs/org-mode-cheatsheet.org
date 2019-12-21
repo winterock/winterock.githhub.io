@@ -51,11 +51,14 @@
 *** Tricks
     + [-] Check Box [1/2] 
       1. Insert a check box with ~M + S + Ret~
-      2. [ ] Toggle Checkout ~[C-c C-c]~
+      2. [ ] Toggle checkbox ~[C-c C-c]~
       3. [X] Hey
       4. Re-index ~[C-c C-c]~
+      5. Add ~[/]~ to the end of line, and toggle any checkbox to update the counter
+
     + Plain List
       1. Sub 1
       2. blablabla
+
 
 
