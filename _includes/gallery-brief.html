@@ -1,0 +1,17 @@
+{% assign albums = page.albums %}
+{% for album in albums %}
+<p>{{ album.desc }}</p>
+<p class="image-gallery">
+  {% assign photos = album.photos | split: ","%}
+  {% for photo in photos %}
+    {% assign filenameparts = photo | split: "_" %}
+    {% assign filename = filenameparts | first %}
+    <a href="/albums/{{ album.folder }}/{{ photo }}" title="{{ filename }}">
+      <img src="/albums/{{ album.folder}}/{{ photo }}" alt="{{ filename }}" title="{{ filename }}" />
+      <!-- <span>{{ filename }}</span> -->
+    </a>
+  {% endfor %}
+    <a href="/album/{{ album.folder }}" class="album-more"><span>More...</span></a>
+</p>
+{% endfor %}
+

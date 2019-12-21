@@ -13,3 +13,67 @@
   "media-queries",
   "syntax-highlighting"
 ;
+
+ .image-gallery {overflow: auto; margin-left: -1%!important;}
+ .image-gallery a {
+     float: left;
+     display: block;
+     margin: 0 0 1% 1%;
+     width: 24%;
+     height: 0;
+     padding-bottom: 24%;
+     text-align: center;
+     text-decoration: none!important;
+     position: relative;
+ }
+ .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+ .image-gallery a .img-popup {
+     position: fixed;
+     height: auto;
+     width: auto;
+     margin: auto;
+     -webkit-filter: none;
+     filter: none;
+ }
+ .image-gallery a img {
+     position: absolute;
+     height: 100%;
+     width: 100%;
+     display: block;
+     margin: 0;
+     padding: 0;
+     -webkit-filter: grayscale(100%) brightness(116%) contrast(83%) opacity(70%);
+     filter: grayscale(100%) brightness(116%) contrast(83%) opacity(70%);
+     -webkit-transition: all .3s ease;
+     -moz-transition: all .3s ease;
+     -o-transition: all .3s ease;
+     -ms-transition: all .3s ease;
+     transition: all .3s ease;
+ }
+ .image-gallery a img:hover {
+     -webkit-filter: none;
+     filter: none;
+ }
+ .image-gallery {
+     .album-more {
+         text-align: center;
+         background: black;
+         opacity: 0.2;
+
+         -webkit-transition: all .3s ease;
+         -moz-transition: all .3s ease;
+         -o-transition: all .3s ease;
+         -ms-transition: all .3s ease;
+         transition: all .3s ease;
+
+         &:hover{
+             opacity: 0.8;
+         }
+
+         span {
+             margin: 40% 0;
+             color: white;
+             font-size: 14px;
+         }
+     }
+ }
