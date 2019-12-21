@@ -5,8 +5,11 @@ permalink: /lists/
 active: lists
 ---
 
-## Inventory
+## Orgs
+- [Plans for 2020](/orgs/plans-for-2020)
+- [Retro for 2019](/orgs/retro-for-2019)
 
+## Inventory
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
 - [Org Mode Cheatsheet](/orgs/org-mode-cheatsheet)
 - [Python Notebook With Org Mode](/orgs/python-example)

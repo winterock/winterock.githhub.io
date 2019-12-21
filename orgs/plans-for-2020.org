@@ -1,0 +1,22 @@
+#+TITLE: Plans for 2020
+
+** Tasks [0/3]
+   - [ ] Finish self-retro for 2019 before end of Jan. 2020
+   - [ ] Finish implementing ScheDo in Q1
+   - [ ] Add more concrete items to this list before end of Jan. 2020
+
+** Learning
+   - Piano
+   - Drawing
+
+** Reading
+   - [ ] Read a book every month [0/3]
+     + [ ] Jan
+     + [ ] Feb
+     + [ ] Mar
+   - Write reviews after reading
+
+** Writing
+   - [ ] Make a list of ideas which can be expanded to blogs
+   - Gradually add old reviews to blog page
+   - Write a blog every month

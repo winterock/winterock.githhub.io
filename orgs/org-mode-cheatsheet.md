@@ -1,8 +1,4 @@
----
-title: Org Mode Cheatsheet
----
-
-- [Org Mode Cheatsheet](#sec-1)
+- [Org Mode CheatSheet](#sec-1)
   - [Syntax](#sec-1-1)
     - [Emphasis and mono-space](#sec-1-1-1)
     - [Paragraphs](#sec-1-1-2)
@@ -14,7 +10,7 @@ title: Org Mode Cheatsheet
     - [Tricks](#sec-1-2-4)
 
 
-# Org Mode Cheatsheet<a id="sec-1"></a>
+# Org Mode CheatSheet<a id="sec-1"></a>
 
 ## Syntax<a id="sec-1-1"></a>
 
@@ -65,9 +61,11 @@ simplest_func()
 
 -   [-] Check Box <code>[1/2]</code>
     1.  Insert a check box with `M + S + Ret`
-    2.  [ ] Toggle Checkout `[C-c C-c]`
+    2.  [ ] Toggle checkbox `[C-c C-c]`
     3.  [X] Hey
     4.  Re-index `[C-c C-c]`
+    5.  Add `[/]` to the end of line, and toggle any checkbox to update the counter
+
 -   Plain List
     1.  Sub 1
     2.  blablabla
