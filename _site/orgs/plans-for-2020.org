@@ -1,22 +1,39 @@
 #+TITLE: Plans for 2020
 
-** Tasks [0/3]
-   - [ ] Finish self-retro for 2019 before end of Jan. 2020
+* Plans for 
+** Tasks [1/3]
+   - [X] Finish self-retro for 2019 before end of Jan. 2020 ( Delayed)
    - [ ] Finish implementing ScheDo in Q1
-   - [ ] Add more concrete items to this list before end of Jan. 2020
 
 ** Learning
    - Piano
+     + [ ] Merry Christmas Mr. Lawrence
+     + [ ] Seb & Mia Theme
    - Drawing
-
+     + [ ] A portrait
+       
 ** Reading
-   - [ ] Read a book every month [0/3]
-     + [ ] Jan
-     + [ ] Feb
+   - [-] Read a book every month [1/3]
      + [ ] Mar
+     + [ ] Feb (1984)
+     + [X] Jan (Composition, 音乐与黄昏五故事集)
+     
    - Write reviews after reading
 
 ** Writing
-   - [ ] Make a list of ideas which can be expanded to blogs
-   - Gradually add old reviews to blog page
-   - Write a blog every month
+
+*** Post Ideas
+    - My Fav Character in Friends - Joey
+    - Mondrian And His Grids
+    - Langlang
+    - Piano
+    - Drawing
+    - Photography
+    - Impact
+    - BIO
+    - Show Pony and Coaster
+  
+*** Write a blog every month [1/3]
+    - [ ] Mar
+    - [ ] Feb
+    - [X] Jan (Self Retro 2019)

@@ -1,30 +1,44 @@
-  - [Tasks <code>[0/3]</code>](#sec-1)
-  - [Learning](#sec-2)
-  - [Reading](#sec-3)
-  - [Writing](#sec-4)
 
+# Plans for
 
-# Tasks <code>[0/3]</code><a id="sec-1"></a>
+## Tasks <code>[1/3]</code>
 
--   [ ] Finish self-retro for 2019 before end of Jan. 2020
+-   [X] Finish self-retro for 2019 before end of Jan. 2020 ( Delayed)
 -   [ ] Finish implementing ScheDo in Q1
--   [ ] Add more concrete items to this list before end of Jan. 2020
 
-# Learning<a id="sec-2"></a>
+## Learning
 
 -   Piano
+    -   [ ] Merry Christmas Mr. Lawrence
+    -   [ ] Seb & Mia Theme
 -   Drawing
+    -   [ ] A portrait
 
-# Reading<a id="sec-3"></a>
+## Reading
 
--   [ ] Read a book every month <code>[0/3]</code>
-    -   [ ] Jan
-    -   [ ] Feb
+-   [-] Read a book every month <code>[1/3]</code>
     -   [ ] Mar
+    -   [ ] Feb (1984)
+    -   [X] Jan (Composition, 音乐与黄昏五故事集)
+
 -   Write reviews after reading
 
-# Writing<a id="sec-4"></a>
+## Writing
 
--   [ ] Make a list of ideas which can be expanded to blogs
--   Gradually add old reviews to blog page
--   Write a blog every month
+### Post Ideas
+
+-   My Fav Character in Friends - Joey
+-   Mondrian And His Grids
+-   Langlang
+-   Piano
+-   Drawing
+-   Photography
+-   Impact
+-   BIO
+-   Show Pony and Coaster
+
+### Write a blog every month <code>[1/3]</code>
+
+-   [ ] Mar
+-   [ ] Feb
+-   [X] Jan (Self Retro 2019)
