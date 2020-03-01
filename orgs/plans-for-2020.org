@@ -1,26 +1,54 @@
 #+TITLE: Plans for 2020
 
-* Plans for 
-** Tasks [1/3]
-   - [X] Finish self-retro for 2019 before end of Jan. 2020 ( Delayed)
-   - [ ] Finish implementing ScheDo in Q1
+* Plans for 2020
+** Tasks [1/1]
+   - [X] Finish self-retro for 2019 before end of Jan. 2020 ( Delayed )
 
-** Learning
-   - Piano
+** Side Projects
+*** Schedo
+- [ ] Finish implementing Schedo in Q1
+
+*** Datahub
+- [ ] Investigate similar platforms
+
+*** Leetcode
+- Solve all the medium level problems
+
+*** Emacs
+- [ ] Java/Swift/Python IDE
+- Configs [2/2]
+  + [X] Try out doom emacs
+  + [X] Find personally preferred bindings
+
+** Learn
+   - Music theory and how to play piano [1/4]
+     + [X] Online music theory course ( finished last year )
      + [ ] Merry Christmas Mr. Lawrence
      + [ ] Seb & Mia Theme
-   - Drawing
+     + [ ] Write an article about learnings and understandings
+
+   - Basics about drawing/paiting
      + [ ] A portrait
+     + [ ] Write an article about learnings and understandings
+
+   - Fundamentals about photography
+     + Spend one day to go out and take some pictures every month [0/1]
+       + [ ] March
+     + [ ] Write an article about learnings and understandings
+
+   - Statiscs
+     + [ ] Online statistics courses
+     + [ ] Machine learning
        
-** Reading
+** Read
    - [-] Read a book every month [1/3]
      + [ ] Mar
-     + [ ] Feb (1984)
-     + [X] Jan (Composition, 音乐与黄昏五故事集)
+     + [ ] Feb, 1984 (delayed)
+     + [X] Jan, Composition, 音乐与黄昏五故事集
      
    - Write reviews after reading
 
-** Writing
+** Write
 
 *** Post Ideas
     - My Fav Character in Friends - Joey
