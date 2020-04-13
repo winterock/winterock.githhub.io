@@ -6,19 +6,20 @@
 
 ** Side Projects
 *** Schedo
-- [ ] Finish implementing Schedo in Q1
+   - [ ] Finish implementing Schedo in Q1
 
 *** Datahub
-- [ ] Investigate similar platforms
+   - [ ] Investigate similar platforms
 
 *** Leetcode
-- Solve all the medium level problems
+   - Solve all the medium level problems
 
 *** Emacs
-- [ ] Java/Swift/Python IDE
-- Configs [2/2]
-  + [X] Try out doom emacs
-  + [X] Find personally preferred bindings
+   - [X] Java/Swift/Python IDE ( Only for Java )
+   - Configs [2/2]
+     + [X] Try out doom emacs
+     + [X] Find personally preferred bindings
+     + Keep adding new bindings/configs
 
 ** Learn
    - Music theory and how to play piano [1/4]
@@ -39,13 +40,13 @@
    - Statiscs
      + [ ] Online statistics courses
      + [ ] Machine learning
-       
+
 ** Read
    - [-] Read a book every month [1/3]
      + [ ] Mar
      + [ ] Feb, 1984 (delayed)
      + [X] Jan, Composition, 音乐与黄昏五故事集
-     
+
    - Write reviews after reading
 
 ** Write
@@ -60,7 +61,7 @@
     - Impact
     - BIO
     - Show Pony and Coaster
-  
+
 *** Write a blog every month [1/3]
     - [ ] Mar
     - [ ] Feb
