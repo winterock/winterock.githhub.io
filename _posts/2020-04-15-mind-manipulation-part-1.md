@@ -18,9 +18,10 @@ I've always been thinking about
  - how to quit bad behaviors, like smoking
  - how to deal with procrastination
  - ...
+
 From time to time, I read about different studies, tried out various suggestions.
 But it just didn't work.
-Frustration visited me quite often. Giving up is my daily routine.
+Frustration visits me quite often. Giving up is my daily routine.
 
 After a long time fighting with my own imperfectness,
 I recently have taken a deep look into my own thought process through a thorough self-retrospection.
@@ -39,7 +40,7 @@ what I'm going to share now works on me at least.
    - Pro-active reaction
    - Passive reaction
  - Two levels of brain processing
-   - Fast processing (reaction)
+   - Fast processing (reflex)
    - Slow processing (logical thinking)
  - Mind, like muscle, needs training and maintaining.
    - It's definitely not a switch
@@ -82,6 +83,7 @@ All the emotions and feelings have been proven to be related to complicated chem
 With that being said, any of that complicated processes can be simplified as electromagnetic interactions,
  - Attraction
  - Repulsion
+
 Starting from atoms, attractions and repulsions are the key forces to build any living beings.
 
 Combine it with Darwin's theory, an extremely long period of evolution has built up two patterns
@@ -99,7 +101,7 @@ As human beings, we are making our way to escape from natural rules to some cert
 that's where our greatness lies.
 
 Positive/negative feelings and emotions also follow the rules above, but way more complicated.
-We can think them as a complex combination of attractions and repulsions which make up some certain state.
+We can think them as a complex combination of attractions and repulsions which make up some certain states.
 
 But still there are more questions,
 we know something is bad for us, say smoking is harmful to our health,
@@ -111,10 +113,9 @@ Why is this happening?
 
 ## Two Levels of Brain Processing
 
-It's fast thinking (reaction) and slow thinking (logical thinking)
+It's fast thinking (reflex) and slow thinking (logical thinking)
 
-This video shares a good explanation about this.
-(This is how your brain works - https://www.youtube.com/watch?v=JiTz2i4VHFw)
+This video shares a good explanation about this. [This is how your brain works](https://www.youtube.com/watch?v=JiTz2i4VHFw)
 
 (more to be added here)
 
@@ -135,9 +136,22 @@ We feel a blood strike immediately when a scary face pops up in the screen.
 Moreover, after watching many horror movies, we can build up the patterns in our brains.
 "That door looks so suspicious, I bet something will jump out from there."
 And when it does, we will not be that much scared any more, because it fits the pattern.
-
 Most of the time, we will not talk to ourselves like that, we just feel the thing is coming.
-It's a fast thinking process.
+It's a fast thinking process, or a reflex.
+
+Before we move on to the logical thinking part, let's connect the dots we have so far.
+ - States consist of complex combination of electromagnetic interactions
+ - Attraction and repulsion
+ - Patterns
+
+ - Happening event triggers a certain state of complex electromagnetic interactions in brains
+ - This state is mapped to existing patterns
+   - built by nature/intuitions
+   - formed from evolution
+   - shaped by past experiences
+ - Then there comes the attraction or repulsion, and further followed by our feelings/emotions/actions
+   - or it can also be ignored, which means the event triggers nothing
+ - Happened event becomes past experience which serves to adjust existing patterns
+ - and so on so forth
 
 (to be continued)
-
